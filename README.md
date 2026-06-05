@@ -125,14 +125,17 @@ The dataset contains **48,895 Airbnb listings** with information related to:
 ```text
 Airbnb-Marketplace-Performance-Analysis/
 │
-├── Airbnb_Marketplace_Performance_Analysis.ipynb
-├── Airbnb PPT.pdf
-├── README.md
-└── images/
-    └── dashboard.jpeg
+├── data/
+│   ├── Airbnb_Dataset.csv
+│   └── Airbnb_Cleaned_Dataset.csv
+│
+├── notebook/
+│   ├── Airbnb_Listing_Performance_Analysis.ipynb
+│   └── .ipynb_checkpoints/
+│
+└── README.md
 ```
 
----
 
 ## Business Insights
 
